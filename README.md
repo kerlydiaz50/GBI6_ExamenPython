@@ -21,3 +21,8 @@
   - pydot: 1.4.2
 
 ## Explicación de la data utilizada
+  - **CSF1R.seq:** Archivo .seq que corresponde a la lista del ```Accession List``` del gen CSF1R encontrado en la database NCBI
+  - **sequence.gb:** Corresponde al archivo genbank de los 10 primeros IDs de accesión
+  - **sequence FASTA DNA:** Archivo fasta de la secuencia anterior transformada a formato fasta
+  - **sequence.aln y sequence.dnd:** Archivos obtenidos después de cargar la data multiple y crear alineamientos, se obtienen 2 archivos, el primero corresponde al de alignment y el segundo al dendograma.
+  - **CSF1R_tree:** Corresponde al archivo del árbol filogenético guardado en formato XML
