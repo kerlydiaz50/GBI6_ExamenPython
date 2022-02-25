@@ -14,6 +14,7 @@
 
 ## Versión de Python/Anaconda y de cada uno de los módulos/paquetes y utilizados
   - Python/Anaconda: 2021.11
+  - Jupyter notebook: 6.4.5
   - gitbash: 2.35.1.2
   - biopython: 1.79
   - pandas: 1.3.4
