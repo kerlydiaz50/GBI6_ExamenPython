@@ -14,6 +14,7 @@
 
 ## Versión de Python/Anaconda y de cada uno de los módulos/paquetes y utilizados
   - Python/Anaconda: 2021.11
+  - gitbash: 2.35.1.2
   - biopython: 1.79
   - Paquete pandas: 1.3.4
   - matplotlib: 3.4.3
