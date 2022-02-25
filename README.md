@@ -7,10 +7,6 @@
   - Grupo: 1
      
 ## Características del computador
-  - Nombre del dispositivo: DESKTOP-OB1FJE6
-  - Procesador: Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz 3.30 GHz 
-  - RAM instalada: 4,00 GB
-  - Tipo de sistema:	Sistema operativo de 64 bits, procesador x64
   - Nombre del dispositivo:	DESKTOP-2RMHPQV
   - Procesador: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz   2.42 GHz
   - RAM instalada: 8,00 GB (7,73 GB usable)
